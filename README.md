@@ -11,8 +11,8 @@
         <a href="https://www.instagram.com/micahkepe/">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
         </a>
-        <a href="https://twitter.com/micahkepe">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge">
+        <a href="https://x.com/micahkepe">
+            <img src="https://img.shields.io/badge/X-1DA1F2?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+WDwvdGl0bGU+PHBhdGggZD0iTTE4LjkwMSAxLjE1M2gzLjY4bC04LjA0IDkuMTlMMjQgMjIuODQ2aC03LjQwNmwtNS44LTcuNTg0LTYuNjM4IDcuNTg0SC40NzRsOC42LTkuODNMMCAxLjE1NGg3LjU5NGw1LjI0MyA2LjkzMlpNMTcuNjEgMjAuNjQ0aDIuMDM5TDYuNDg2IDMuMjRINC4yOThaIi8+PC9zdmc+&logoColor=white&style=for-the-badge">
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=micahkepe&style=flat-square&color=blue" alt="profile-views"/>
