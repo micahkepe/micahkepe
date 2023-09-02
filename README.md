@@ -16,11 +16,6 @@ Here are some ideas to get you started:
         <a href="https://twitter.com/micahkepe">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge">
     </div>
+    <img src="https://komarev.com/ghpvc/?username=micahkepe&style=flat-square&color=blue" alt="profile-views"/>
+
 </div>
-
-
-
-
-
-
-
