@@ -1,7 +1,5 @@
 <!--
 **micahkepe/micahkepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
 <div id= "header" align="center">
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
         </a>
         <a href="https://twitter.com/micahkepe">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge">
+        </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=micahkepe&style=flat-square&color=blue" alt="profile-views"/>
-
 </div>
