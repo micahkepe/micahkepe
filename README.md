@@ -46,4 +46,7 @@
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=micahkepe&theme=dark" alt="GitHub Streak">
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micahkepe&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+    </a>
 </div>
