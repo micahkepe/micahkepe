@@ -20,9 +20,9 @@
 
 ## 📝 About Me
 
-- 🎓 Currently a computer science student at **Rice University** 
-- 💻 Pursuing a Bachelor's in **Computer Science** and a Minor in **Data Science**
-- 💡 Wide range of interests, from machine learning to fullstack development and more!
+- 🎓 Computer science student at **Rice University** 
+- 💻 Pursuing a Bachelor of Science in ***Computer Science*** with a Minor in ***Data Science***
+- 💡 **Interests**: Machine Learning, Software Development, Web Development, Data Science, Natural Language Processing, Computer Vision, Deep Learning
 
 ## 🔧 Languages and Tools
 
