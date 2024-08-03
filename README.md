@@ -20,9 +20,9 @@
 
 ## 📝 About Me
 
-- 🎓 Computer science student at **Rice University** 
-- 💻 Pursuing a Bachelor of Science in ***Computer Science*** with a Minor in ***Data Science***
-- 💡 **Interests**: Machine Learning, Software Development, Web Development, Data Science, Natural Language Processing, Computer Vision, Deep Learning
+- Undergraduate student at **Rice University** in Houston, TX
+- Pursuing a Bachelor of Science in Computer Science + Minor in Data Science
+- **Interests**: Machine Learning, Software Development, Web Development, Data Science, Natural Language Processing, Computer Vision, Deep Learning
 
 ## 🔧 Languages and Tools
 
