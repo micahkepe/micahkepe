@@ -1,11 +1,7 @@
 <div id= "header" align="center">
     <img src="ascii-art.png" width="20%">
-    <h1>
-        <code>
-            Micah Kepe
-        </code>
-    </h1>
-    <div id="badges" align="center" style="display: flex; justify-content: center; gap: 5px; margin-bottom: 10px;">
+    <h1>Micah Kepe 💻</h1>
+    <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/micah-kepe/">
             <code>LinkedIn</code>
         </a>
@@ -16,7 +12,6 @@
             <code>X</code>
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=micahkepe&style=flat-square&color=blue" alt="profile-views"/>
 </div>
 
 <br/>
