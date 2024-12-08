@@ -20,21 +20,8 @@
 ## About Me
 
 👋 Hi, I'm Micah Kepe, a computer science student at Rice University.
-
-## Languages and Tools
-
-Some of my favorite tools and technologies include:
-
-* Languages: Python, Java, JavaScript, TypeScript, C, Go, Rust, HTML, CSS
-* Frameworks: React, NodeJS, NestJS
-* Databases: MongoDB, PostgreSQL, MySQL
-* Tools: Git, Docker, TensorFlow, Keras, PyTorch, OpenCV
-
-## GitHub Stats
 ```
 
-<div align="center">
-    <picture>
-        <img src="github-metrics.svg" alt="lowlighter metrics of my GitHub profile" width="500px">
-    </picture>
-</div>
+<p align="center">
+    <img src="github-metrics.svg" alt="lowlighter metrics of my GitHub profile" width="500px">
+</p>
