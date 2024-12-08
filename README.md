@@ -33,6 +33,8 @@ Some of my favorite tools and technologies include:
 ## GitHub Stats
 ```
 
-<p align="center">
-	<img src="github-metrics.svg" alt="lowlighter metrics of my GitHub profile" width="500px">
-</p>
+<div align="center">
+    <picture>
+        <img src="github-metrics.svg" alt="lowlighter metrics of my GitHub profile" width="500px">
+    </picture>
+</div>
