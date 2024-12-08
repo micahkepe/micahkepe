@@ -1,6 +1,5 @@
 <div id= "header" align="center">
-    <img src="ascii-art.png" width="20%">
-    <h1>Micah Kepe 💻</h1>
+    <h1>Micah Kepe 👨‍💻</h1>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/micah-kepe/">
             <code>LinkedIn</code>
