@@ -10,6 +10,9 @@
         <a href="https://x.com/micahkepe">
             <code>X</code>
         </a>
+        <a href="https://micahkepe.com/">
+            <code>Personal Site</code>
+        </a>
     </div>
 </div>
 
