@@ -7,11 +7,11 @@
         <a href="https://www.instagram.com/micahkepe/">
             <code>Instagram</code>
         </a>
-        <a href="https://x.com/micahkepe">
-            <code>X</code>
-        </a>
         <a href="https://micahkepe.com/">
             <code>Personal Site</code>
+        </a>
+        <a href="https://micahkepe.com/blog/">
+            <code>Blog</code>
         </a>
     </div>
 </div>
