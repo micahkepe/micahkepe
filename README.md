@@ -19,8 +19,6 @@
 <br/>
 
 ```
-## About Me
-
 👋 Hi, I'm Micah Kepe, a computer science student at Rice University.
 ```
 
