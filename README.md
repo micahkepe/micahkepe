@@ -1,6 +1,6 @@
-<div id= "header" align="center">
+<div id="profile-container" align="center">
     <h1>Micah Kepe 👨‍💻</h1>
-    <div id="badges" align="center">
+    <div id="socials" align="center">
         <a href="https://micahkepe.com/">
             <code>Personal Site</code>
         </a>
@@ -11,10 +11,10 @@
             <code>LinkedIn</code>
         </a>
     </div>
+    <br/>
+    <code>👋 Hi, I'm Micah Kepe, a computer science student at Rice University.</code>
 </div>
 
 <br/>
 
-```
-👋 Hi, I'm Micah Kepe, a computer science student at Rice University.
-```
+
