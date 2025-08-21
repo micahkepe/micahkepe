@@ -10,11 +10,10 @@
         <a href="https://www.linkedin.com/in/micah-kepe/">
             <code>LinkedIn</code>
         </a>
+        <a href="https://github.com/micahkepe.gpg">
+            <code>GPG Key</code>
+        </a>
     </div>
     <br/>
     <code>👋 Hi, I'm Micah Kepe, a computer science student at Rice University.</code>
 </div>
-
-<br/>
-
-
