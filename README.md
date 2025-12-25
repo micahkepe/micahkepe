@@ -15,5 +15,5 @@
         </a>
     </div>
     <br/>
-    <code>👋 Hi, I'm Micah Kepe, a computer science student at Rice University.</code>
+    <code>👋 Hi, I'm Micah Kepe, a recent computer science grad from Rice University.</code>
 </div>
