@@ -30,21 +30,11 @@ CURRENT WORK
         optimized, accessible, with dark and light modes.
         https://github.com/micahkepe/radion
 
-INTERESTS
-    Systems programming and performance optimization. Developer tooling
-    and command-line interfaces. Open source software and community
-    contribution.
-
 ENVIRONMENT
     OS              Linux, macOS
     EDITOR          Neovim
     SHELL           Fish
     LANGUAGES       Rust, C, Go, Python, TypeScript, Shell
-
-OPTIONS
-    --location      Los Angeles, CA <-> Houston, TX
-    --university    Rice University
-    --status        tinkering
 
 LINKS
     Homepage        https://micahkepe.com
