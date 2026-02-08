@@ -18,8 +18,8 @@ ENVIRONMENT
 
 SEE ALSO
     vimtutor-sequel(1)
-        Advanced Vim tutor lessons for mastering the editor. Over
-        540 stars. Educational tool for Vim proficiency.
+        Advanced Vim tutor lessons for mastering the editor.
+        Packaged in Homebrew.
         https://github.com/micahkepe/vimtutor-sequel
 
     jsongrep(1)
