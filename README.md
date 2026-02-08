@@ -1,19 +1,85 @@
-<div id="profile-container" align="center">
-    <h1>Micah Kepe 👨‍💻</h1>
-    <div id="socials" align="center">
-        <a href="https://micahkepe.com/">
-            <code>Personal Site</code>
-        </a>
-        <a href="https://micahkepe.com/blog/">
-            <code>Blog</code>
-        </a>
-        <a href="https://www.linkedin.com/in/micah-kepe/">
-            <code>LinkedIn</code>
-        </a>
-        <a href="https://github.com/micahkepe.gpg">
-            <code>GPG Key</code>
-        </a>
-    </div>
-    <br/>
-    <code>👋 Hi, I'm Micah Kepe, a recent computer science grad from Rice University.</code>
-</div>
+```
+MICAH(1)                    User Commands                    MICAH(1)
+
+NAME
+    micah kepe — software engineer, open source contributor
+
+SYNOPSIS
+    rust | go | c | python | typescript
+    performance, correctness, developer experience
+
+DESCRIPTION
+    Recent Rice University CS grad with a focus on building developer
+    tools and utilities. Creates small, sharp tools that solve real
+    problems—the kind you reach for daily.  Software engineer.
+    Rustacean. Open source contributor.
+
+CURRENT WORK
+    vimtutor-sequel(1)
+        Advanced Vim tutor lessons for mastering the editor. Over 540
+        stars. Educational tool for Vim proficiency.
+        https://github.com/micahkepe/vimtutor-sequel
+
+    jsongrep(1)
+        JSONPath-inspired query language over JSON documents. Command-
+        line tool for JSON manipulation and querying.
+        https://github.com/micahkepe/jsongrep
+
+    radion(1)
+        Modern blog theme for Zola static site generator. SEO-
+        optimized, accessible, with dark and light modes.
+        https://github.com/micahkepe/radion
+
+INTERESTS
+    Systems programming and performance optimization. Developer tooling
+    and command-line interfaces. Open source software and community
+    contribution.
+
+ENVIRONMENT
+    OS              Linux, macOS
+    EDITOR          Neovim
+    SHELL           Fish
+    LANGUAGES       Rust, C, Go, Python, TypeScript, Shell
+
+OPTIONS
+    --location      Los Angeles, CA <-> Houston, TX
+    --university    Rice University
+    --status        tinkering
+
+LINKS
+    Homepage        https://micahkepe.com
+    Blog            https://micahkepe.com/blog
+    LinkedIn        https://linkedin.com/in/micah-kepe
+    GPG Key         https://github.com/micahkepe.gpg
+
+CONTRIBUTING
+    Contributions to Homebrew, various open source projects.
+
+    Recent highlights: Homebrew core contributor (homebrew-core),
+    quantum computing notes (comp458-notes, 76 stars), configuration
+    management (dotfiles).
+
+SEE ALSO
+    vimtutor-sequel(1)  - Advanced Vim tutor lessons
+                          https://github.com/micahkepe/vimtutor-sequel
+
+    jsongrep(1)         - JSONPath query language for JSON
+                          https://github.com/micahkepe/jsongrep
+
+    radion(1)           - Modern blog theme for Zola
+                          https://github.com/micahkepe/radion
+
+LINKS
+    https://micahkepe.com
+    https://micahkepe.com/blog
+    https://linkedin.com/in/micah-kepe
+
+AUTHOR
+    Written by Micah Kepe.
+
+COPYRIGHT
+    This is free software; see individual projects for licenses.
+    Generally MIT licensed.
+
+MICAH                         February 2026                   MICAH(1)
+```
